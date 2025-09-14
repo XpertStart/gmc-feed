@@ -3,773 +3,832 @@
   <channel>
     <title>Xpert Start Products</title>
     <link>https://www.xpertstart.com.au</link>
-    <description>Parent-only product feed generated on 2025-09-14 17:48:38 UTC</description>
+    <description>Parent-only product feed with /shop links and quantities (generated 2025-09-14 18:07:12 UTC)</description>
     <item>
       <g:id>advanced-chatbot-package</g:id>
       <g:title>Advanced Chatbot Package</g:title>
       <g:description>A next-level AI chatbot solution designed for businesses that require smarter automation, advanced lead handling, and personalized customer interactions . This chatbot goes beyond basic responses by adapting to customer inputs, managing follow-ups, and providing AI-driven insights to optimize engagement and conversions. ✔ First Payment: $2,550 (Includes a $1,750 setup fee + first-month chatbot service) ✔ Ongoing Monthly Payment: $800 (Starting from Month 2)</g:description>
-      <g:link>https://www.xpertstart.com.au/products/advanced-chatbot-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/advanced-chatbot-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/advanced-ai-chatbot.webp?v=1742632005</g:image_link>
       <g:price>2550.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Software &gt; Computer Software &gt; Business &amp; Productivity Software</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Software &gt; Computer Software &gt; Business &amp; Productivity Software</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>advanced-logo-design</g:id>
       <g:title>Advanced Logo Design</g:title>
       <g:description>A professional logo design for businesses looking to elevate their brand identity with high-quality visuals and consistent brand application. Ideal for new businesses or rebrands, this package delivers flexibility, refinement, and complete brand readiness across all touchpoints. ✔ Price: $1,499 Who is this for? ✔ Perfect for new business start-ups ✔ Ideal for a total rebrand of an existing business</g:description>
-      <g:link>https://www.xpertstart.com.au/products/advanced-logo-design</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/advanced-logo-design</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-advanced-logo-design.webp?v=1743357580</g:image_link>
       <g:price>1499.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>advanced-ppc-ad-management</g:id>
       <g:title>Advanced PPC Ad Management</g:title>
       <g:description>A high-performance PPC management service designed for businesses with larger ad budgets looking to scale results, optimize conversions, and maximize ROI . This package includes everything in the Basic PPC Ad Management package , plus advanced targeting, A/B testing, and strategic ad creative development to increase engagement and conversions . ✔ Price: $1,500/month + $750 setup fee ✔ For Ad Budgets Between: $2,000 – $10,000 ✔ 1 Advertising Platform: Google Ads OR Meta Ads ✔ Minimum Commitment: 3 Months</g:description>
-      <g:link>https://www.xpertstart.com.au/products/advanced-ppc-ad-management</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/advanced-ppc-ad-management</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/the-watch-gallery-ppc-advertising.webp?v=1742632247</g:image_link>
       <g:price>2250.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>advanced-seo-package</g:id>
       <g:title>Advanced SEO Package</g:title>
       <g:description>Step up your SEO game with our Advanced SEO Package, designed for growing businesses that need more strategic support. This mid-tier plan includes targeted keyword growth , a tailored content roadmap, and data-driven reporting to help your brand gain consistent, long-term visibility. ✔ First Payment: $2,150 (Includes a $750 setup fee + first-month SEO service) ✔ Ongoing Monthly Payment: $1,400 (Starting from Month 2) ✔ No long-term commitment – cancel anytime</g:description>
-      <g:link>https://www.xpertstart.com.au/products/advanced-seo-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/advanced-seo-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/penrith-party-hire-seo.webp?v=1742631952</g:image_link>
       <g:price>2150.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>ai-virtual-assistant</g:id>
       <g:title>AI Virtual Assistant</g:title>
       <g:description>A smart, AI-driven virtual assistant that goes beyond simple chatbots by using machine learning and NLP to engage in dynamic, multi-turn conversations . Designed to automate business tasks, manage scheduling, and handle administrative work , this AI assistant improves efficiency and ensures seamless customer interactions across multiple platforms. ✔ Ongoing Monthly Payment: $2,600 ✔ Minimum Commitment: 3 Months</g:description>
-      <g:link>https://www.xpertstart.com.au/products/ai-virtual-assistant</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/ai-virtual-assistant</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ai-virtual-assistant.webp?v=1742632025</g:image_link>
       <g:price>2600.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>basic-chatbot-package</g:id>
       <g:title>Basic Chatbot Package</g:title>
       <g:description>A cost-effective AI chatbot solution designed to provide instant customer support, automate FAQs, and streamline lead capture . This package offers seamless interactions through natural language processing (NLP), ensuring your customers receive quick, accurate, and human-like responses 24/7 . ✔ First Payment: $1,750 (Includes a $1,250 setup fee + first-month chatbot service) ✔ Ongoing Monthly Payment: $500 (Starting from Month 2)</g:description>
-      <g:link>https://www.xpertstart.com.au/products/basic-chatbot-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/basic-chatbot-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/basic-ai-chatbot.webp?v=1742631991</g:image_link>
       <g:price>1750.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Software &gt; Computer Software &gt; Business &amp; Productivity Software</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Software &gt; Computer Software &gt; Business &amp; Productivity Software</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>basic-logo-design</g:id>
       <g:title>Basic Logo Design</g:title>
       <g:description>A professional logo design crafted to establish a strong, memorable visual identity for your business. This package is ideal for startups, small businesses, or those looking for a refined, custom-designed logo that reflects their brand vision with clarity and confidence. ✔ Basic Package: $999</g:description>
-      <g:link>https://www.xpertstart.com.au/products/basic-logo-design</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/basic-logo-design</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-basic-logo-design.webp?v=1742632308</g:image_link>
       <g:price>999.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>basic-ppc-ad-management</g:id>
       <g:title>Basic PPC Ad Management</g:title>
       <g:description>A strategic, results-driven PPC ad management service designed to maximize your ad spend, increase conversions, and drive targeted traffic . We handle everything from campaign setup to ongoing optimization , ensuring you get the best possible ROI on Google Ads or Meta Ads (Facebook &amp; Instagram) . ✔ Price: $350/month + $500 setup fee ✔ For Ad Budgets Between: $500 – $2,000 ✔ 1 Advertising Platform: Google Ads OR Meta Ads ✔ Minimum Commitment: 3 Months</g:description>
-      <g:link>https://www.xpertstart.com.au/products/basic-ppc-ad-management</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/basic-ppc-ad-management</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/comfort-denture-clinic-ppc-advertising.webp?v=1742632240</g:image_link>
       <g:price>850.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>basic-seo-package</g:id>
       <g:title>Basic SEO Package</g:title>
       <g:description>The Basic SEO Package is ideal for small businesses just getting started with SEO . It includes foundational optimization, keyword targeting, and detailed reporting, everything you need to build a solid online presence without breaking the bank. Perfect for local visibility and entry-level growth. ✔ First Payment: $1,300 (Includes a $500 setup fee + first-month SEO service) ✔ Ongoing Monthly Payment: $800 (Starting from Month 2) ✔ No long-term commitment – cancel anytime</g:description>
-      <g:link>https://www.xpertstart.com.au/products/basic-seo-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/basic-seo-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/cande-property-co-seo.webp?v=1742631930</g:image_link>
       <g:price>1300.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>blog-post</g:id>
       <g:title>Blog Post</g:title>
       <g:description>Professionally crafted blog content designed to increase website traffic, boost SEO, and engage your audience . Whether you need informative articles, industry insights, or engaging storytelling, our blog posts are tailored to align with your brand's voice and business goals . ✔ Price: $250 per post (500-1000 words) ✔ Bulk Discounts Available: 3 Blog Posts or More – Save $50 per post</g:description>
-      <g:link>https://www.xpertstart.com.au/products/blog-post</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/blog-post</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/blog-posts.webp?v=1742632086</g:image_link>
       <g:price>250.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>branded-posts</g:id>
       <g:title>Branded Posts</g:title>
       <g:description>Elevate your social media with professionally designed branded posts. Each graphic is custom-built to reflect your brand identity while aligning with strategic goals—perfect for increasing engagement, building trust, and maintaining a cohesive online presence. ✔ Price: $250 (5 Posts) / $500 (10 Posts) ✔ Designed for Instagram, Facebook, LinkedIn, and more ✔ Aligned with your color palette, fonts, and brand tone ✔ Ready-to-post, high-resolution files ✔ Ideal for service showcases, testimonials, product highlights, and announcements</g:description>
-      <g:link>https://www.xpertstart.com.au/products/branded-posts</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/branded-posts</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/nectar-social-media-five-branded-posts.webp?v=1743357740</g:image_link>
       <g:price>250.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>business-growth-package</g:id>
       <g:title>Business Growth Package</g:title>
       <g:description>The Growth Package is designed for businesses ready to scale their brand, expand their online presence, and enhance their marketing efforts . This comprehensive package includes a fully responsive multi-page website, advanced branding, in-depth SEO, and social media setup, giving you the foundation needed to grow your business effectively. ✔ $5,999 – Complete Business Growth Package ✔ Website, Branding, SEO, Social Media &amp; Marketing Setup ✔ Designed for Business Expansion &amp; Online Visibility Optional Monthly Services (If Hosted by Us): Website Maintenance – $15/month (Updates, security, and minor changes) cPanel Email &amp; Web Hosting – $20/month SSL Certificate – $10/month (Purchase, installation, and maintenance) Google Workspace / Gmail – $10/user per month (Additional users: $10/month) Domain Renewal: $150 (Every 2 years) Platforms Available: Wix Studio, WordPress or Webflow</g:description>
-      <g:link>https://www.xpertstart.com.au/products/business-growth-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/business-growth-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ecovibe-business-growth-package.webp?v=1742808005</g:image_link>
       <g:price>5999.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>business-launch-package</g:id>
       <g:title>Business Launch Package</g:title>
       <g:description>The Launch Package is the perfect all-in-one business startup solution , providing you with everything needed to establish your brand, website, and marketing presence . This package includes professional branding, website setup, SEO, email marketing configuration, and more to give your business a strong foundation for success. ✔ $3,999 – Complete Business Launch Package ✔ Website, Branding, SEO, and Marketing Setup ✔ Includes Logo Design, Business Cards, Social Media &amp; More Optional Monthly Services (If Hosted by Us): Website Maintenance – $15/month (Updates, security, and minor changes) cPanel Email &amp; Web Hosting – $20/month SSL Certificate – $10/month (Purchase, installation, and maintenance) Google Workspace / Gmail – $10/user per month (Additional users: $10/month) Domain Renewal: $150 (Every 2 years) Platforms Available: Wix Studio, WordPress or Webflow</g:description>
-      <g:link>https://www.xpertstart.com.au/products/business-launch-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/business-launch-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-business-launch-package.webp?v=1742807978</g:image_link>
       <g:price>3999.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>business-scale-package</g:id>
       <g:title>Business Scale Package</g:title>
       <g:description>The Scale Package is designed for businesses ready to expand, dominate their market, and establish a powerful brand presence . This package includes a custom-built multi-page website (with optional eCommerce integration), a premium branding suite, advanced SEO strategies, and high-level marketing tools . With link-building strategies, and legal branding considerations , this package is ideal for companies looking to scale aggressively and establish authority in their industry . ✔ $9,999 – The Ultimate Business Growth Package ✔ Website, Premium Branding, SEO, &amp; Marketing ✔ Perfect for businesses ready to expand &amp; scale efficiently Monthly Services Website Maintenance – $30/month (Updates, security, and minor changes) SSL Certificate – $10/month (Purchase, installation, and maintenance) Google Workspace / Gmail – $10/user per month (Additional users: $10/month) Domain Renewal : $150 (Every 2 years) Platforms Available : Shopify, Wix Studios, WordPress or Webflow (extra fees may apply)</g:description>
-      <g:link>https://www.xpertstart.com.au/products/business-scale-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/business-scale-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/nectar-business-scale-package.webp?v=1742808021</g:image_link>
       <g:price>9999.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>custom-ai-solutions</g:id>
       <g:title>Custom AI Solutions</g:title>
       <g:description>Our Custom AI Solutions are designed to enhance efficiency, automate workflows, and improve customer engagement . Whether you need a smart AI chatbot, process automation, or industry-specific AI integration , we build tailored AI solutions that align with your business goals and customer experience strategy . ✔ Custom Quote – Pricing Based on Scope &amp; Features ✔ Tailored AI Chatbots &amp; Automation ✔ Optimized for Efficiency, Engagement &amp; Scalability</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-ai-solutions</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-ai-solutions</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/custom-ai-solutions.webp?v=1742632041</g:image_link>
       <g:price>0.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>custom-brochures</g:id>
       <g:title>Custom Brochures</g:title>
       <g:description>Our brochure design and printing services provide professionally designed, high-quality marketing materials tailored to your business needs. Whether you need design-only or full-service printing , we offer a variety of sizes, fold types, and finishes to enhance your brand presentation . ✔ Custom Brochure Design &amp; Printing ✔ Choice of Gloss or Matte Finish ✔ Roll Fold or Z Fold for 6-Page Brochures ✔ Flexible Print Quantities (100 - 5000 copies) Custom Brochure Printing Only This option is available for those supplying print-ready PDF artwork or requesting a reprint of a previously designed brochure . If you already have a designer or artwork on file, we will ensure it is checked and approved for high-quality printing . If your file is not print-ready or requires layout modifications , an artwork fee of $100 will apply.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-brochures</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-brochures</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/urbanrise-realty-dl-brochure.webp?v=1742897935</g:image_link>
       <g:price>550.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing &gt; Brochures</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing &gt; Brochures</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-envelopes</g:id>
       <g:title>Custom Envelopes</g:title>
       <g:description>Professionally designed and printed envelopes that reflect your brand’s identity and maintain professionalism across all correspondence. Available in a variety of standard business sizes, these envelopes feature peel-and-seal closures and come with the choice of plain or window face where applicable. ✔ Full-Colour Custom Printing ✔ Peel-and-Seal Closure for All Sizes ✔ Available in Plain or Window Face (C4 &amp; B4: Plain Only) ✔ Choice of DL, DLX, C5, C4, and B4 Sizes ✔ High-Quality 90–100gsm Paper Stocks ✔ Flexible Print Quantities (250 - 5000 copies) Custom Envelope Printing Only This option is available for those supplying print-ready PDF artwork or requesting a reprint of a previously designed envelope . If you already have a designer or artwork on file, we will ensure it is checked and approved for high-quality printing . If your file is not print-ready or requires layout modifications , an artwork fee of $100 will apply.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-envelopes</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-envelopes</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/converge-ai-c5-envelope.webp?v=1742908991</g:image_link>
       <g:price>300.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Envelopes</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Envelopes</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-flyers</g:id>
       <g:title>Custom Flyers</g:title>
       <g:description>Our flyer design and printing services offer high-quality, full-colour CMYK flyers to promote your business, event, or campaign. Whether you need single or double-sided flyers, DL, A5, or A4 sizes, we provide both design-only or design + print services. All flyers are available with your choice of gloss or matte finish to suit your brand’s aesthetic. ✔ Custom Flyer Design &amp; Printing ✔ Choice of Gloss or Matte Finish ✔ Flexible Print Quantities (500 – 10,000 copies) ✔ Sizes include DL, A5, and A4 ✔ Single and Double-Sided Options Custom Flyer Printing Only This option is available for those supplying print-ready PDF artwork or requesting a reprint of a previously designed flyer . If you already have a designer or artwork on file, we will ensure it is checked and approved for high-quality printing . If your file is not print-ready or requires layout modifications , an artwork fee of $100 will apply.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-flyers</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-flyers</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/palisade-a4-flyer.webp?v=1742897951</g:image_link>
       <g:price>300.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing &gt; Brochures</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing &gt; Brochures</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-instagram-highlight-covers</g:id>
       <g:title>Custom Instagram Highlight Covers</g:title>
       <g:description>Elevate your social media presence with professionally designed Instagram highlight covers that reflect your brand's identity. These covers bring a cohesive and polished look to your profile, helping you stand out and maintain brand consistency. ✔ Price: $250 Per 5 Covers ✔ Custom-designed to match your brand's aesthetic ✔ Ideal for Instagram profiles looking to improve first impressions ✔ Delivered in high-resolution, optimized for mobile ✔ Great for businesses, influencers, and creatives</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-instagram-highlight-covers</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-instagram-highlight-covers</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-instagram-highlight-covers.webp?v=1743357773</g:image_link>
       <g:price>250.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>custom-magnets</g:id>
       <g:title>Custom Magnets</g:title>
       <g:description>Magnets are a great way to keep your brand visible on fridges, filing cabinets, and metal surfaces. Perfect for promotional giveaways, service reminders, or product features, these high-quality magnets are available in multiple shapes, sizes, and finishes. ✔ Full Colour, High-Quality Magnetic Stock ✔ Multiple Sizes &amp; Shapes Available ✔ Rounded or Square Corners ✔ Durable, Long-Lasting Adhesion ✔ Flexible Print Quantities (500 - 5000 copies) Custom Magnets Printing Only This option is available for those supplying print-ready PDF artwork or requesting a reprint of a previously designed magnet . If you already have a designer or artwork on file, we will ensure it is checked and approved for high-quality printing . If your file is not print-ready or requires layout modifications , an artwork fee of $100 will apply.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-magnets</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-magnets</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/urbanrise-realty-rectangle-fridge-magnet.webp?v=1742898022</g:image_link>
       <g:price>400.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing &gt; Trade Show Displays</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing &gt; Trade Show Displays</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-presentation-folders</g:id>
       <g:title>Custom Presentation Folders</g:title>
       <g:description>Premium presentation folders are a professional way to package your proposals, handouts, or onboarding documents. Available in standard or gusset styles with single or double-sided printing, they’re perfect for corporate events, meetings, and branded business kits. ✔ Printed on durable 350gsm card ✔ One-sided or two-sided full-colour CMYK printing ✔ Standard or Gusset folder styles ✔ Gloss or Matte lamination finish ✔ Pockets to hold A4 documents ✔ Ideal for client presentations, welcome packs &amp; reports ✔ Flexible Print Quantities (25 - 250 copies)</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-presentation-folders</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-presentation-folders</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/converge-ai-presentation-folder-with-letterhead.webp?v=1742911528</g:image_link>
       <g:price>450.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Office Supplies &gt; Filing &amp; Organization &gt; Folders &amp; Report Covers</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Office Supplies &gt; Filing &amp; Organization &gt; Folders &amp; Report Covers</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-stickers</g:id>
       <g:title>Custom Stickers</g:title>
       <g:description>Custom vinyl stickers are perfect for branding, packaging, promotions, and events. Durable and weather-resistant, our stickers come die-cut by default and are available in a variety of shapes and sizes. For sheeted or rolled stickers, contact us directly. ✔ Full-Colour Vinyl Printing ✔ Weather-Resistant &amp; Durable ✔ Die-Cut Shapes Included ✔ Matte or Gloss Finish ✔ Rounded Corners Available ✔ Flexible Print Quantities (100 - 5000 copies) Custom Stickers Printing Only This option is available for those supplying print-ready PDF artwork or requesting a reprint of a previously designed stickers . If you already have a designer or artwork on file, we will ensure it is checked and approved for high-quality printing . If your file is not print-ready or requires layout modifications , an artwork fee of $100 will apply.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-stickers</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-stickers</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/markita-media-custom-vinyl-sticker.webp?v=1742898049</g:image_link>
       <g:price>250.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-thank-you-cards</g:id>
       <g:title>Custom Thank You Cards</g:title>
       <g:description>Show appreciation in style with our custom-designed thank you cards printed on premium 300gsm stock. Whether for personal use, branding, or customer engagement, these cards offer a lasting impression with optional gloss or matte finishes and square or rounded corners. ✔ High-Quality 300gsm Card Stock ✔ Single or Double-Sided Options ✔ Multiple Sizes and Formats ✔ Rounded or Square Corners ✔ Gloss or Matte Finish ✔ Flexible Print Quantities (100 - 2000 copies) Custom Thank You Cards Printing Only This option is available for those supplying print-ready PDF artwork or requesting a reprint of a previously designed Thank You Cards . If you already have a designer or artwork on file, we will ensure it is checked and approved for high-quality printing . If your file is not print-ready or requires layout modifications , an artwork fee of $100 will apply.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-thank-you-cards</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-thank-you-cards</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/nectar-square-thank-you-card.webp?v=1742909183</g:image_link>
       <g:price>300.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Business Cards</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Business Cards</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>custom-website</g:id>
       <g:title>Custom Web Design &amp; Development</g:title>
       <g:description>Your business needs more than a template. Our team delivers custom web design and development that is fast, SEO friendly and scalable. We plan information architecture, design UI and engineer clean code with performance best practices. Based in Sydney, we build headless CMS sites, custom components and integrations for bookings, payments and CRM . Launch a secure, maintainable website that reflects your brand and lifts conversions. ✔ Custom Quote – Pricing Based on Scope &amp; Features ✔ Platform Options to Suit Your Business Needs ✔ Optimized for Speed, SEO &amp; User Experience Platform Options (Monthly maintenance costs may vary based on the platform selected.) Webflow – Best for visually stunning, high-performance websites with complete design flexibility. Shopify – Ideal for eCommerce businesses , providing seamless online store functionality. WordPress – Highly scalable and flexible , perfect for businesses needing diverse features. Wix – Beginner-friendly website management , great for businesses that need easy updates.</g:description>
-      <g:link>https://www.xpertstart.com.au/products/custom-website</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/custom-website</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-mockup-penrithpartyhire.webp?v=1742631903</g:image_link>
       <g:price>0.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>e-commerce-website</g:id>
       <g:title>E-commerce Website</g:title>
       <g:description>An E-commerce website should do more than list products. It should convert. Our Sydney team delivers ecommerce web design that is fast, secure, mobile friendly and SEO optimised. We structure categories and product pages, improve page speed, integrate payments and shipping, and streamline checkout to lift sales. We build Shopify, WooCommerce and Webflow stores that scale with your business, whether launching a new site or upgrading an existing one. ✔ Website Base Cost: $4,199 ✔ All prices are inclusive of Artwork, GST &amp; Development ✔ No Hosting Required (Provided by Customer): $4,199 ✔ I Require a Domain, Email Hosting, Email Setup, and SSL Certificate: $4,399 ✔ Website Copywriting (Professional Content Writing): +$3,200 Monthly Services Website Maintenance – $30/month (Updates, security, and minor changes) SSL Certificate – $10/month (Purchase, installation, and maintenance) Google Workspace / Gmail – $10/user per month (Additional users: $10/month) Domain Renewal : $150 (Every 2 years) Platforms we build: Shopify, WooCommerce, Webflow (extra fees may apply)</g:description>
-      <g:link>https://www.xpertstart.com.au/products/e-commerce-website</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/e-commerce-website</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-mockup-watch-gallery.webp?v=1742631872</g:image_link>
       <g:price>4199.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>electronic-templates-pack</g:id>
       <g:title>Electronic Templates Pack</g:title>
       <g:description>Upgrade your business professionalism with custom-branded electronic templates. These editable documents are designed for daily use and consistent brand presentation across all client communications. Each template is aligned with your branding and optimized for practical business use in Word, PDF, and Google Docs formats. ✔ Pack 1: $300 (Quote, Invoice, Letterhead) ✔ Pack 2: $500 (Quote, Invoice, Letterhead + Credit Note, Statement, Purchase Order ) ✔ Fully Editable &amp; Customizable ✔ Designed for Digital &amp; Print Use</g:description>
-      <g:link>https://www.xpertstart.com.au/products/electronic-templates-pack</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/electronic-templates-pack</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-quote-invoice-letterhead-package.webp?v=1742897717</g:image_link>
       <g:price>300.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Software &gt; Digital Goods &amp; Currency &gt; Document Templates</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Software &gt; Digital Goods &amp; Currency &gt; Document Templates</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-copywriting</g:id>
       <g:title>Email Copywriting</g:title>
       <g:description>Professionally written email copy designed to increase open rates, boost engagement, and drive conversions . Whether you need a promotional email, a welcome sequence, or a newsletter, our customized and persuasive emails ensure your message stands out in your audience’s inbox. ✔ Price: $150 per email</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-copywriting</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-copywriting</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/email-copywriting.webp?v=1742632145</g:image_link>
       <g:price>150.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-marketing-one-off-advanced-package</g:id>
       <g:title>Email Marketing One-Off Advanced Package</g:title>
       <g:description>The Email Marketing Advanced Package is a one-time service that delivers professionally written, custom-designed email templates tailored to your business. This package includes a more in-depth audit, extended email sequences, and strategic automation flows , helping you build long-term relationships with customers, increase retention, and recover lost sales . ✔ Price: $5,500 (One-Time Fee) ✔ Advanced Email Copywriting &amp; Custom Email Templates ✔ Turnaround Time: Approximately 4-6 Weeks</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-marketing-one-off-advanced-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-marketing-one-off-advanced-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-email-one-off-advanced-package.webp?v=1742808305</g:image_link>
       <g:price>5500.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-marketing-one-off-basic-package</g:id>
       <g:title>Email Marketing One-Off Basic Package</g:title>
       <g:description>Our Email Marketing Basic Package is a one-time service that provides professionally written and custom-designed email templates for businesses looking to improve their email marketing strategy. Instead of managing your email campaigns, we create high-converting email sequences that you can deploy on your own , ensuring a fully branded and automated experience. ✔ Price: $4,400 (One-Time Fee) ✔ Custom Email Copywriting &amp; Designed Templates ✔ Turnaround Time: Approximately 3-4 Weeks</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-marketing-one-off-basic-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-marketing-one-off-basic-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-email-one-off-basic-package.webp?v=1742808284</g:image_link>
       <g:price>4400.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-marketing-one-off-premium-package</g:id>
       <g:title>Email Marketing One-Off Premium Package</g:title>
       <g:description>The Email Marketing Premium Package is designed for businesses that want a highly strategic and fully branded email experience . We provide professionally written email sequences and custom-designed templates that help increase engagement, recover lost sales, and improve customer retention . ✔ Price: $6,600 (One-Time Fee) ✔ Custom Email Copywriting &amp; Designed Templates ✔ Turnaround Time: Approximately 6-8 Weeks</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-marketing-one-off-premium-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-marketing-one-off-premium-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-email-one-off-premium-package.webp?v=1742808489</g:image_link>
       <g:price>6600.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-marketing-ongoing-advanced-package</g:id>
       <g:title>Email Marketing Ongoing Advanced Package</g:title>
       <g:description>The Ongoing Advanced Email Marketing Package is designed for businesses that want more frequent, targeted, and optimized email campaigns . With list segmentation, A/B testing, and advanced reporting , this package ensures higher engagement and conversions through personalized, data-driven email strategies . ✔ Price: $3,200/month ✔ Advanced Email Strategy, Copywriting &amp; Performance Optimization ✔ Turnaround: Weekly to Bi-Weekly Email Deployment</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-marketing-ongoing-advanced-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-marketing-ongoing-advanced-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-email-ongoing-advanced-package.webp?v=1742808347</g:image_link>
       <g:price>3200.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-marketing-ongoing-basic-package</g:id>
       <g:title>Email Marketing Ongoing Basic Package</g:title>
       <g:description>The Ongoing Basic Email Marketing Package provides consistent, high-quality email campaigns to keep your audience engaged and your brand top-of-mind. This package is ideal for businesses that need regular email outreach without the hassle of managing it themselves. ✔ Price: $2,400/month ✔ Ongoing Email Strategy, Copywriting &amp; Reporting ✔ Turnaround: Weekly Email Deployment</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-marketing-ongoing-basic-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-marketing-ongoing-basic-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-email-ongoing-basic-package.webp?v=1742808325</g:image_link>
       <g:price>2400.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-marketing-ongoing-premium-package</g:id>
       <g:title>Email Marketing Ongoing Premium Package</g:title>
       <g:description>The Ongoing Premium Email Marketing Package is designed for businesses that need high-volume, high-converting email marketing with advanced automation, segmentation, and multi-channel engagement . This package includes automated drip campaigns, SMS marketing integration, and advanced reporting to ensure your campaigns drive maximum ROI. ✔ Price: $4,200/month ✔ Automated, Data-Driven Email &amp; SMS Strategy ✔ Turnaround: Weekly to Bi-Weekly Email Deployment</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-marketing-ongoing-premium-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-marketing-ongoing-premium-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-email-ongoing-premium-package.webp?v=1742808506</g:image_link>
       <g:price>4200.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>email-signature</g:id>
       <g:title>Custom Email Signature</g:title>
       <g:description>A professionally designed email signature enhances your brand identity and ensures consistent, polished communication across all business emails. ✔ Price: $100 – Custom Email Signature Design ✔ Designed for Professionalism &amp; Brand Consistency ✔ Compatible with Gmail, Outlook, Apple Mail &amp; More</g:description>
-      <g:link>https://www.xpertstart.com.au/products/email-signature</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/email-signature</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/converge-ai-email-signature.webp?v=1742897555</g:image_link>
       <g:price>100.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>growth-branding-package</g:id>
       <g:title>Growth Branding Package</g:title>
       <g:description>The Growth Branding Package is built for growing businesses ready to establish a more refined and consistent brand presence. It includes everything from the Starter Package, plus a deeper level of strategic design, an extended style guide, and content assets tailored for marketing and social media expansion. ✔ Price: $2,199 ✔ Perfect for scaling businesses and rebrands ✔ Visual consistency across all touchpoints ✔ Advanced branding documentation for internal and external use ✔ More creative flexibility with logo and style development</g:description>
-      <g:link>https://www.xpertstart.com.au/products/growth-branding-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/growth-branding-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-growth-branding-package.webp?v=1742830305</g:image_link>
       <g:price>2199.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>growth-social-media-package</g:id>
       <g:title>Growth Social Media Package</g:title>
       <g:description>Ideal for businesses ready to scale their content output and deepen engagement, this monthly package gives you everything you need to consistently grow across platforms. You’ll receive strategy, scripts, editing, and fully managed posting—designed to help you stand out and stay top of mind. ✔ Price: $2,400 per month ✔ 20 professionally scripted short-form content ideas every month ✔ We handle editing and posting—just film once ✔ In-depth analytics and monthly strategy guidance ✔ Built for growing businesses ready to level up their content</g:description>
-      <g:link>https://www.xpertstart.com.au/products/growth-social-media-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/growth-social-media-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/social-media-growth-package.webp?v=1743357488</g:image_link>
       <g:price>2400.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>icon-illustration-pack</g:id>
       <g:title>Icon &amp; Illustration Pack</g:title>
       <g:description>Enhance your brand’s visual identity with custom-designed icons or illustrations crafted to suit your unique style and purpose. Ideal for websites, social media, presentations, print materials, and digital campaigns, this pack brings personality and professionalism to your visual content. ✔ Price: $100 per Icon ✔ Unique illustrations tailored to your brand ✔ Scalable, web- and print-ready formats ✔ Consistent design style across all icons ✔ Supports website UI, infographics, packaging, and social visuals</g:description>
-      <g:link>https://www.xpertstart.com.au/products/icon-illustration-pack</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/icon-illustration-pack</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/nectar-icon-and-illustration-pack.webp?v=1743357753</g:image_link>
       <g:price>100.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>landing-page-copywriting</g:id>
       <g:title>Landing Page Copywriting</g:title>
       <g:description>A high-converting landing page designed to engage visitors, highlight your value proposition, and drive conversions . Whether for lead generation, product launches, or sales pages, our copy is crafted to boost engagement and encourage action . ✔ Price: $600 per landing page ✔ Bulk Discount Available: 3 Landing Pages or More – Save $100 per page</g:description>
-      <g:link>https://www.xpertstart.com.au/products/landing-page-copywriting</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/landing-page-copywriting</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/landing-page-copy.webp?v=1742632159</g:image_link>
       <g:price>600.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>letterhead</g:id>
       <g:title>Custom Letterhead</g:title>
       <g:description>A professionally designed letterhead template that enhances your brand's credibility and ensures all official communication reflects your business identity. Ideal for digital and print use, this design is delivered in editable formats for ongoing usage. ✔ Price: $100 – Custom Letterhead Design ✔ Custom-designed letterhead to match your logo and brand ✔ Suitable for quotes, invoices, letters, and formal documents ✔ Matches your brand’s color palette, fonts, and layout styling</g:description>
-      <g:link>https://www.xpertstart.com.au/products/letterhead</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/letterhead</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-letterhead.webp?v=1742898572</g:image_link>
       <g:price>100.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Stationery</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Stationery</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>multi-page-website</g:id>
       <g:title>Multi-Page Website Design</g:title>
       <g:description>A multi-page website gives your business room to organise services, target more keywords, and guide visitors with clear navigation. Our team specialises in multi-page web design and multi-page website design that is SEO friendly, fast, and mobile responsive . We plan a clean information architecture, create focused service and location pages, and add trust signals and calls to action to lift conversions. Whether you are upgrading from a one page site or replacing an outdated build, we deliver professional business websites that are easy to manage and built for growth . ✔ Website Base Cost: $2,199 ✔ All prices are inclusive of Artwork, GST &amp; Development ✔ No Hosting Required (Provided by Customer): $2,199 ✔ I Require a Domain, Web Hosting, and SSL Certificate: $2,299 ✔ I Require a Domain, Email &amp; Web Hosting, Email Setup, and SSL Certificate: $2,399 Additional Services: ✔ Extra Pages: 6-8 pages +$100 / 8-10 pages +$200 ✔ Website Copywriting (Professional Content Writing): +$1,400 Optional Monthly Services (If Hosted by Us): Website Maintenance – $15/month (Updates, security, and minor changes) cPanel Email &amp; Web Hosting – $20/month SSL Certificate – $10/month (Purchase, installation, and maintenance) Google Workspace / Gmail – $10/user per month (Additional users: $10/month) Domain Renewal: $150 (Every 2 years) Platforms Available: Wix Studio, WordPress or Webflow</g:description>
-      <g:link>https://www.xpertstart.com.au/products/multi-page-website</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/multi-page-website</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-mockup-street-tucker.webp?v=1742631844</g:image_link>
       <g:price>2199.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>platform-setup</g:id>
       <g:title>Platform Setup</g:title>
       <g:description>This service provides full setup of your chosen social media platform(s), ensuring your business is professionally represented and optimized for visibility and engagement. Whether you're launching your first account or expanding across platforms, we create a cohesive and conversion-focused presence for your brand. ✔ Price: $200 ✔ 3+ Platforms $50 Off ✔ Full setup of any major platform (Instagram, Facebook, LinkedIn, TikTok, etc.)</g:description>
-      <g:link>https://www.xpertstart.com.au/products/platform-setup</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/platform-setup</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-social-media-platform-setup.webp?v=1743357791</g:image_link>
       <g:price>200.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>ppc-ad-copy</g:id>
       <g:title>PPC Ad Copy</g:title>
       <g:description>High-converting ad copy designed to capture attention, drive engagement, and maximize conversions . Whether you're running Google Ads, social media ads, or LinkedIn campaigns , our compelling ad copy ensures your message resonates with your target audience. ✔ Price: $150 per ad copy ✔ Bulk Discount Available: 3 Ads or More – Save $25 per ad</g:description>
-      <g:link>https://www.xpertstart.com.au/products/ppc-ad-copy</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/ppc-ad-copy</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ad-copy.webp?v=1742632180</g:image_link>
       <g:price>150.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>premium-business-cards</g:id>
       <g:title>Premium Business Cards</g:title>
       <g:description>Elevate your brand with luxurious premium business cards that make a lasting impression. Printed on ultra-thick 450gsm stock with a smooth velvet laminate and striking scodix embellishment, these cards are perfect for professionals looking to stand out. ✔ 450gsm Heavyweight Card ✔ Velvet Laminate on Both Sides ✔ Scodix Raised Gloss Finish on One Side ✔ Exceptional Quality &amp; Durability ✔ Perfect for Premium Branding Pricing &amp; Options Printing Prices (Print-Only vs. Design + Print) Quantities x 1 kind ✔ 250 Business Cards – Print Only: $200 | Design + Print: $320 ✔ 500 Business Cards – Print Only: $250 | Design + Print: $370 ✔ 1,000 Business Cards – Print Only: $300 | Design + Print: $420 Quantities x 2 kinds ✔ 250 Business Cards – Print Only: $350 | Design + Print: $450 ✔ 500 Business Cards – Print Only: $420 | Design + Print: $540 ✔ 1,000 Business Cards – Print Only: $520 | Design + Print: $640 Quantities x 3 kinds ✔ 250 Business Cards – Print Only: $500 | Design + Print: $600 ✔ 500 Business Cards – Print Only: $600 | Design + Print: $720 ✔ 1,000 Business Cards – Print Only: $740 | Design + Print: $860 Quantities x 4 kinds ✔ 250 Business Cards – Print Only: $620 | Design + Print: $740 ✔ 500 Business Cards – Print Only: $780 | Design + Print: $900 ✔ 1,000 Business Cards – Print Only: $950 | Design + Print: $1070 Quantities x 5 kinds ✔ 250 Business Cards – Print Only: $750 | Design + Print: $870 ✔ 500 Business Cards – Print Only: $940 | Design + Print: $1060 ✔ 1,000 Business Cards – Print Only: $1160 | Design + Print: $1280 Reorder or Printing Only – Important Information Only select this option if you meet the following criteria: ✔ We have previously created your business card artwork, and you require a reprint. ✔ You have a graphic designer and can supply print-ready artwork based on the specifications below. Print-Ready Artwork Requirements ✔ File Format: PDF or EPS (Vector Format) ✔ Color Mode: CMYK (No RGB or Spot Colors) ✔ Bleed: 3mm on all sides ✔ Safe Area: Keep important text and logos at least 5mm from the trim edge ✔ Resolution: 300 DPI or higher ✔ Fonts: All fonts must be outlined or embedded</g:description>
-      <g:link>https://www.xpertstart.com.au/products/premium-business-cards</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/premium-business-cards</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/nectar-premium-business-card.webp?v=1743155746</g:image_link>
       <g:price>320.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Business Cards</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Business Cards</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>premium-logo-design</g:id>
       <g:title>Premium Logo Design</g:title>
       <g:description>A comprehensive, high-end branding package tailored for businesses looking to establish a sophisticated visual identity rooted in strategy and creativity. This package is ideal for new businesses or those undergoing a full rebrand with long-term brand goals. ✔ Price: $1,999 Who is this for? ✔ Startups ready to launch with a powerful brand identity ✔ Businesses undergoing strategic rebranding ✔ Brands seeking a complete branding foundation and creative direction</g:description>
-      <g:link>https://www.xpertstart.com.au/products/premium-logo-design</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/premium-logo-design</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/escapade-premium-logo-design.webp?v=1743357597</g:image_link>
       <g:price>1999.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>premium-ppc-ad-management</g:id>
       <g:title>Premium PPC Ad Management</g:title>
       <g:description>Our Premium PPC Ad Management package is designed for businesses investing $10,000+ per month in advertising across multiple platforms . This package includes custom scripts, dynamic ad features, cross-channel integration, and high-level strategy development to maximize ad performance and ROI . ✔ Price: $1,500 setup fee + 10-15% of ad spend ✔ For Ad Budgets: $10,000+ ✔ Up to 3 Advertising Platforms: Google Ads, Meta Ads (Facebook &amp; Instagram), LinkedIn, etc. ✔ Minimum Commitment: 3 Months</g:description>
-      <g:link>https://www.xpertstart.com.au/products/premium-ppc-ad-management</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/premium-ppc-ad-management</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/bakers-delight-ppc-advertising.webp?v=1742632247</g:image_link>
       <g:price>1500.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>premium-seo-package</g:id>
       <g:title>Premium SEO Package</g:title>
       <g:description>Our Premium SEO Package is built for enterprise-level brands and competitive industries. Featuring advanced technical audits, strategic monthly roadmaps, and aggressive keyword targeting, this plan is your all-in-one solution for dominating search results and driving scalable growth. ✔ First Payment: $3,200 (Includes a $1,000 setup fee + first-month SEO service) ✔ Ongoing Monthly Payment: $2,200 (Starting from Month 2) ✔ No long-term commitment – cancel anytime</g:description>
-      <g:link>https://www.xpertstart.com.au/products/premium-seo-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/premium-seo-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/the-watch-gallery-seo.webp?v=1742631952</g:image_link>
       <g:price>3200.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>product-descriptions</g:id>
       <g:title>Product Descriptions</g:title>
       <g:description>Professionally written product descriptions designed to increase sales, improve SEO, and enhance customer confidence . Whether you're launching a new product or refreshing existing listings, our descriptions are crafted to engage your audience and highlight your product’s unique value . ✔ Price: $50 per product description</g:description>
-      <g:link>https://www.xpertstart.com.au/products/product-descriptions</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/product-descriptions</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/product-descriptions.webp?v=1742632105</g:image_link>
       <g:price>250.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>rolling-landing-page</g:id>
       <g:title>One Page Website &amp; Landing Page Design</g:title>
       <g:description>A one page website or landing page is the ideal solution for small businesses and startups that want to make an immediate impact online. Designed for high conversion, it showcases your brand, highlights key services, and drives customer action with a sleek, professional layout. Whether you’re building your first online presence or upgrading to a modern single-page design, our landing page packages in Sydney deliver speed, simplicity, and proven results. ✔ Base Cost: $1,499 (Includes artwork, GST &amp; development) ✔ No Hosting Required: $1,499 (Customer provides their own hosting) ✔ Hosting &amp; Security Package: $1,599 (Includes domain, web hosting &amp; SSL certificate) ✔ Complete Hosting &amp; Email Package: $1,699 (Includes domain, email &amp; web hosting, email setup &amp; SSL certificate) ✔ Website Copywriting (Professional Content Writing): +$1,000 Optional Monthly Services (If Hosted by Us): Website Maintenance – $15/month (Updates, security, and minor changes) cPanel Email &amp; Web Hosting – $20/month SSL Certificate – $10/month (Purchase, installation, and maintenance) Google Workspace / Gmail – $10/user per month (Additional users: $10/month) Domain Renewal: $150 (Every 2 years) Platforms Available: Wix Studio, WordPress or Webflow</g:description>
-      <g:link>https://www.xpertstart.com.au/products/rolling-landing-page</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/rolling-landing-page</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-mockup-ace-constructions.webp?v=1742631798</g:image_link>
       <g:price>1499.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>scale-social-media-package</g:id>
       <g:title>Scale Social Media Package</g:title>
       <g:description>Built for brands serious about dominating their space, the Scale Package delivers high-volume, professionally crafted content backed by monthly data reviews and quarterly video production. This is your all-in-one monthly solution to boost visibility, engagement, and conversions across all social platforms. ✔ Price: $4,000 per month ✔ 30 expertly scripted short-form videos per month ✔ We handle editing and publishing across platforms ✔ Full monthly audit, performance report, and strategy optimization ✔ Includes a quarterly full-day professional video shoot</g:description>
-      <g:link>https://www.xpertstart.com.au/products/scale-social-media-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/scale-social-media-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/social-media-scale-package.webp?v=1743357474</g:image_link>
       <g:price>4000.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>social-media-audit</g:id>
       <g:title>Social Media Audit</g:title>
       <g:description>A deep-dive assessment of your brand’s social media performance, designed to uncover what’s working, what’s not, and how to improve. We provide a clear roadmap based on data, competitor benchmarking, and actionable steps to enhance your social strategy. ✔ Price: $500 ✔ Comprehensive multi-platform audit ✔ 10 actionable recommendations tailored to your brand ✔ Strategy rooted in performance metrics, trends, and opportunities</g:description>
-      <g:link>https://www.xpertstart.com.au/products/social-media-audit</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/social-media-audit</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/social-media-audit-performance-report.webp?v=1743357689</g:image_link>
       <g:price>500.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>social-media-captions</g:id>
       <g:title>Social Media Captions</g:title>
       <g:description>Boost engagement with professionally crafted social media captions tailored to your brand’s voice and target audience. Whether you’re promoting a product, launching a campaign, or building brand awareness, our captions are designed to drive likes, comments, shares, and conversions across all major platforms. ✔ Price: $50 per post</g:description>
-      <g:link>https://www.xpertstart.com.au/products/social-media-captions</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/social-media-captions</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/social-media-captions.webp?v=1742632126</g:image_link>
       <g:price>50.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>social-media-strategy</g:id>
       <g:title>Social Media Strategy</g:title>
       <g:description>This tailored strategy is designed to help your brand grow by aligning content with business objectives, reaching the right audience, and maximizing engagement across social media platforms. Whether you’re starting from scratch or refining your current presence, this plan ensures clarity, direction, and measurable results. ✔ Price: $800 ✔ Comprehensive audience &amp; competitor research ✔ Platform-specific recommendations ✔ Posting calendar &amp; content themes ✔ Engagement and ad strategies to boost visibility and ROI ✔ 30-day action plan to launch or revamp your strategy</g:description>
-      <g:link>https://www.xpertstart.com.au/products/social-media-strategy</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/social-media-strategy</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/social-media-strategy.webp?v=1743406070</g:image_link>
       <g:price>800.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>standard-business-card</g:id>
       <g:title>Standard Business Cards</g:title>
       <g:description>Make a lasting impression with our professionally designed Standard Business Cards . Featuring premium 350gsm cardstock with your choice of gloss or matte finish , these business cards are designed for durability, style, and impact . Choose between design-only, print-only, or a full package to suit your needs. ✔ Premium 350gsm Cardstock ✔ Gloss or Matte Lamination ✔ Custom Design Available Pricing &amp; Options Printing Prices (Print-Only vs. Design + Print) Quantities x 1 kind ✔ 250 Business Cards – Print Only: $100 | Design + Print: $200 ✔ 500 Business Cards – Print Only: $120 | Design + Print: $220 ✔ 1,000 Business Cards – Print Only: $160 | Design + Print: $260 Quantities x 2 kinds ✔ 250 Business Cards – Print Only: $150 | Design + Print: $250 ✔ 500 Business Cards – Print Only: $170 | Design + Print: $270 ✔ 1,000 Business Cards – Print Only: $210 | Design + Print: $300 Quantities x 3 kinds ✔ 250 Business Cards – Print Only: $200 | Design + Print: $300 ✔ 500 Business Cards – Print Only: $220 | Design + Print: $320 ✔ 1,000 Business Cards – Print Only: $250 | Design + Print: $350 Quantities x 4 kinds ✔ 250 Business Cards – Print Only: $250 | Design + Print: $350 ✔ 500 Business Cards – Print Only: $270 | Design + Print: $370 ✔ 1,000 Business Cards – Print Only: $300 | Design + Print: $400 Quantities x 5 kinds ✔ 250 Business Cards – Print Only: $300 | Design + Print: $400 ✔ 500 Business Cards – Print Only: $320 | Design + Print: $420 ✔ 1,000 Business Cards – Print Only: $340 | Design + Print: $440 Reorder or Printing Only – Important Information Only select this option if you meet the following criteria: ✔ We have previously created your business card artwork, and you require a reprint. ✔ You have a graphic designer and can supply print-ready artwork based on the specifications below. Print-Ready Artwork Requirements ✔ File Format: PDF or EPS (Vector Format) ✔ Color Mode: CMYK (No RGB or Spot Colors) ✔ Bleed: 3mm on all sides ✔ Safe Area: Keep important text and logos at least 5mm from the trim edge ✔ Resolution: 300 DPI or higher ✔ Fonts: All fonts must be outlined or embedded</g:description>
-      <g:link>https://www.xpertstart.com.au/products/standard-business-card</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/standard-business-card</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-basic-business-card.webp?v=1743154505</g:image_link>
       <g:price>200.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Business Cards</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Office Supplies &gt; General Office Supplies &gt; Paper Products &gt; Business Cards</g:google_product_category>
+      <g:quantity>0.0</g:quantity>
     </item>
     <item>
       <g:id>starter-branding-package</g:id>
       <g:title>Starter Branding Package</g:title>
       <g:description>The Starter Branding Package is ideal for startups or small businesses looking to establish a clear and professional brand presence. It includes all essential branding assets to help you build credibility and recognition across digital and print touchpoints. ✔ Price: $1,399 ✔ Designed for new and small businesses ✔ Includes logo, typography, brand colours, and social media assets ✔ Delivered in all major file formats for easy use ✔ Consistent branding across platforms</g:description>
-      <g:link>https://www.xpertstart.com.au/products/starter-branding-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/starter-branding-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ecovibe-starter-branding-package.webp?v=1742828643</g:image_link>
       <g:price>1399.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>starter-social-media-package</g:id>
       <g:title>Starter Social Media Package</g:title>
       <g:description>This monthly social media content package is ideal for business owners who want high-quality, high-performing content consistently published across platforms. It combines expert strategy, professional editing, and trend-driven content to grow your brand and boost engagement—without the time drain. ✔ Price: $1,400 per month ✔ Monthly content creation based on viral trends ✔ You film once a month—we do the rest ✔ Fully managed post-production and publishing ✔ Monthly performance review + strategy guidance</g:description>
-      <g:link>https://www.xpertstart.com.au/products/starter-social-media-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/starter-social-media-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/social-media-starter-package.webp?v=1743357501</g:image_link>
       <g:price>1400.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>tiktok-reel-content-calendar</g:id>
       <g:title>TikTok/Reel Content Calendar</g:title>
       <g:description>A fully planned month of engaging short-form content ideas designed specifically for your brand. This package includes viral trend analysis, strategic scripting, and platform optimization to keep your social media consistent, creative, and high-performing. ✔ Price: $800 ✔ 30-day TikTok/Reels content calendar ✔ Includes viral trends and niche insights ✔ Scripts built for maximum engagement and reach ✔ Strategy tailored to your brand and industry</g:description>
-      <g:link>https://www.xpertstart.com.au/products/tiktok-reel-content-calendar</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/tiktok-reel-content-calendar</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/tiktok-social-media-content-calendar.webp?v=1743357829</g:image_link>
       <g:price>800.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Professional Services &gt; Marketing &amp; Advertising</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>ultimate-branding-package</g:id>
       <g:title>Ultimate Branding Package</g:title>
       <g:description>The Ultimate Branding Package is crafted for established businesses looking to scale and refine their identity across all platforms. It’s our most comprehensive package, combining visual branding, marketing collateral, and strategic documentation for full brand consistency and versatility. ✔ Price: $3,999 ✔ Built for rebrands, expansions, or high-growth businesses ✔ Covers design for digital, print, and merchandise applications ✔ Includes full strategy, brand documentation, and ready-to-use assets ✔ Ensures scalable branding across marketing, social media, packaging, and more</g:description>
-      <g:link>https://www.xpertstart.com.au/products/ultimate-branding-package</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/ultimate-branding-package</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/nectar-ultimate-branding-package.webp?v=1742831502</g:image_link>
       <g:price>3999.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>website-copywriting</g:id>
       <g:title>Website Copywriting</g:title>
       <g:description>High-quality, SEO-optimized website content that engages your audience, strengthens your brand voice, and drives conversions . Whether you're launching a new site or refreshing your current pages, this service delivers professionally written, strategic copy designed to boost engagement and search rankings . ✔ Price: $350 per page ✔ Bulk Discounts Available: 3 Pages or More – Save $50 per page 5 Pages or More – Save $100 per page</g:description>
-      <g:link>https://www.xpertstart.com.au/products/website-copywriting</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/website-copywriting</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-copy.webp?v=1742632065</g:image_link>
       <g:price>350.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Services &gt; Business Services</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
     <item>
       <g:id>xero-templates-pack</g:id>
       <g:title>Xero Templates Pack</g:title>
       <g:description>Our Xero Template Packs provide professionally designed, fully editable templates that seamlessly integrate into Xero’s invoicing and financial systems . These templates ensure brand consistency, efficiency, and professionalism in all client transactions. ✔ Option 1: Xero Invoice &amp; Quote Templates – $325 ✔ Option 2: All Xero Templates – $525 ✔ Fully Editable &amp; Customizable ✔ Designed Specifically for Xero Compatibility ✔ All Prices Include Artwork &amp; GST</g:description>
-      <g:link>https://www.xpertstart.com.au/products/xero-templates-pack</g:link>
+      <g:link>https://www.xpertstart.com.au/shop/xero-templates-pack</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/ace-constructions-xero-template-package-one-with-quote-invoice-and-letterhead.webp?v=1742897782</g:image_link>
       <g:price>325.00 AUD</g:price>
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Xpert Start</g:brand>
-      <g:google_product_category>Software &gt; Computer Software &gt; Financial, Tax &amp; Accounting Software</g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:google_product_category>Software &gt; Computer Software &gt; Financial, Tax &amp; Accounting Software</g:google_product_category>
+      <g:quantity>nan</g:quantity>
     </item>
   </channel>
 </rss>
