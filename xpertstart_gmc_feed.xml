@@ -281,25 +281,6 @@
     </item>
     
     <item>
-      <g:id>custom-ai-solutions</g:id>
-      <g:title>Custom AI Solutions - Tailored Business Automation</g:title>
-      <g:description>Custom AI solutions to enhance efficiency, automate workflows, and improve customer engagement. Smart AI chatbots, process automation, industry-specific AI integration. Tailored to your business goals and customer experience strategy. Custom quote based on scope.</g:description>
-      <g:link>https://www.xpertstart.com.au/shop/custom-ai-solutions</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/custom-ai-solutions.webp?v=1742632041</g:image_link>
-      <g:price>0.00 AUD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:quantity>999</g:quantity>
-      <g:condition>new</g:condition>
-      <g:brand>Xpert Start</g:brand>
-      <g:product_type>Business Services &gt; AI Solutions &gt; Custom Development</g:product_type>
-      <g:google_product_category>Business &amp; Industrial</g:google_product_category>
-      <g:identifier_exists>FALSE</g:identifier_exists>
-      <g:shipping_weight>0 kg</g:shipping_weight>
-      <g:custom_label_0>AI Solutions</g:custom_label_0>
-      <g:custom_label_1>Custom Quote</g:custom_label_1>
-    </item>
-    
-    <item>
       <g:id>custom-brochures</g:id>
       <g:title>Custom Brochures - Professional Print Marketing Materials</g:title>
       <g:description>Professional brochure design and printing services with high-quality marketing materials. Choice of gloss or matte finish, roll fold or Z fold for 6-page brochures. Flexible print quantities (100-5000 copies). Design + print or print-only options available.</g:description>
@@ -453,26 +434,6 @@
       <g:shipping_weight>0.2 kg</g:shipping_weight>
       <g:custom_label_0>Print Materials</g:custom_label_0>
       <g:custom_label_1>Design + Print</g:custom_label_1>
-    </item>
-    
-    <item>
-      <g:id>custom-website</g:id>
-      <g:title>Custom Website Design &amp; Development - Professional Web Solutions</g:title>
-      <g:description>Custom web design and development that's fast, SEO-friendly, and scalable. Information architecture planning, UI design, clean code engineering. Headless CMS sites, custom components, booking/payment/CRM integrations. Platform options: Webflow, Shopify, WordPress, Wix.</g:description>
-      <g:link>https://www.xpertstart.com.au/shop/custom-website</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-mockup-penrithpartyhire.webp?v=1742631903</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0694/2661/0228/files/website-mockup-bakers-delight.webp?v=1742631903</g:additional_image_link>
-      <g:price>0.00 AUD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:quantity>999</g:quantity>
-      <g:condition>new</g:condition>
-      <g:brand>Xpert Start</g:brand>
-      <g:product_type>Web Services &gt; Development &gt; Custom Websites</g:product_type>
-      <g:google_product_category>Business &amp; Industrial</g:google_product_category>
-      <g:identifier_exists>FALSE</g:identifier_exists>
-      <g:shipping_weight>0 kg</g:shipping_weight>
-      <g:custom_label_0>Web Development</g:custom_label_0>
-      <g:custom_label_1>Custom Quote</g:custom_label_1>
     </item>
     
     <item>
